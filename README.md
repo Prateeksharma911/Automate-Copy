@@ -4,4 +4,4 @@ If any website does not support copy and paste and you want to paste your text t
 Just paste your text in typeautomate.txt
 After that run your program and move your cursor to the place where you want your text to be pasted
 
-![ScreenShot](/Images/1.jpeg)
+![Image1](/Images/1.jpg)
